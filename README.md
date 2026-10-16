@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # ✧･ﾟ: fyuc.os! :･ﾟ✧
 
@@ -11,6 +11,10 @@ a personal website disguised as an operating system, because apparently making a
 **[github](https://github.com/mikumikudayoo/fyuc.os)** ♡
 
 *✦ no installation! ✦ no actual linux! ✦ just silly little browser things! ✦*
+
+### 🌟 [✦ CLICK HERE TO ENTER FYUC.OS!! ✦](https://fyuc.duckdns.org)
+
+**[🖥️ visit website](https://fyuc.duckdns.org) · [📂 source code](https://github.com/mikumikudayoo/fyuc.os)**
 
 </div>
 
